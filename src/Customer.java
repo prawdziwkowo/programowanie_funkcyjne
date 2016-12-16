@@ -18,7 +18,6 @@ public class Customer {
         for(Customer customer : Customer.allCustomers) {
             if(customer.enabled) {
                 outList.add(customer.name);
-
             }
         }
         return outList;
