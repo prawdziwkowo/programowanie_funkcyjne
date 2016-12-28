@@ -1,4 +1,4 @@
-/**
+package rozdzial2; /**
  * Created by gprawdzik on 2016-12-05.
  */
 import java.util.ArrayList;

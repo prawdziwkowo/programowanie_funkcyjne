@@ -1,3 +1,5 @@
+package rozdzial2;
+
 public class Closure {
     public String foo = "";
 
