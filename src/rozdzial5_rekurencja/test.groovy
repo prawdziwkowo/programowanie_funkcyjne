@@ -1,7 +1,5 @@
 package rozdzial5_rekurencja
 
-//import rozdzial2.Closure
-
 def suma_rekurencyjna(x) {
     if (x <= 0) {
         return 0
